@@ -14,7 +14,7 @@
           "builder": "@angular/build:application",
           "options": {
             "baseHref": "/webiste1/",
-            "browser": "src/main.ts",
+            "browser": "src/main.ts",git push
             "polyfills": [
               "zone.js"
             ],
