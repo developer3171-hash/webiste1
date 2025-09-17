@@ -13,6 +13,7 @@
         "build": {
           "builder": "@angular/build:application",
           "options": {
+            "baseHref": "/webiste1/",
             "browser": "src/main.ts",
             "polyfills": [
               "zone.js"
